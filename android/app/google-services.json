@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183046636330",
+    "project_id": "koprasims",
+    "storage_bucket": "koprasims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183046636330:android:882e07f2eabc9d17661453",
+        "android_client_info": {
+          "package_name": "com.koprasim.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnWSFGDc-DjOA6sT4Eq817-W6GfXvvo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
